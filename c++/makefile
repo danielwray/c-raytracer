@@ -1,2 +1,2 @@
 all:
-	c++ main.cpp -o c-tracer
+	c++ main.cc -o c-tracer
