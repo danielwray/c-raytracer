@@ -53,9 +53,9 @@ hitable *random_scene() {
 }
 
 int main() {
-  int nx = 200;
-  int ny = 100;
-  int ns = 50;
+  int nx = 400;
+  int ny = 200;
+  int ns = 75;
 
   // ppm header
   std::cout << "P3\n" << nx << " " << ny << "\n255\n";
