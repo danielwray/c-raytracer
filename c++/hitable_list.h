@@ -32,6 +32,6 @@ bool hitable_list::hit(const ray& r,
       }
     }
     return hit_anything;
-  }
+}
 
 #endif
